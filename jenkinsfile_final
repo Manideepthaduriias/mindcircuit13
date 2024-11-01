@@ -67,7 +67,7 @@ pipeline {
 		
 		 environment {
             GIT_REPO_NAME = "mindcircuit13"
-            GIT_USER_NAME = "Manideepthaduri8gmail.com"
+            GIT_USER_NAME = "Manideepthaduriias"
         }
 		
             steps {
