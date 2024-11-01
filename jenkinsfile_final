@@ -66,7 +66,7 @@ pipeline {
     stage('Update Deployment File') {
 		
 		 environment {
-            GIT_REPO_NAME = "mindcircuit13"
+            GIT_REPO_NAME = "Manideepthaduriias"
             GIT_USER_NAME = "Manideepthaduriias"
         }
 		
